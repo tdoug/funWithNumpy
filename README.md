@@ -1,4 +1,4 @@
-# Fun with Numby
+# Fun with Numpy
 
 A series of simple examples of popular AI/ML libraries using Python
 
